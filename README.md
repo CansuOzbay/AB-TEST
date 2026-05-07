@@ -14,8 +14,8 @@ Bu proje, bir e-ticaret uygulamasında sunulan %50 indirim teklifinin kullanıc�
 - **İstatistiksel Sonuç:** p-value < 0.05 (H0 reddedildi).
 
 ## 🖼️ Görselleştirmeler
-![Dönüşüm Oranları](./1.96.png)
-![Zaman Trendi](daily.png)
+[Dönüşüm Oranları](./1.96.png)
+[Zaman Trendi](daily.png)
 
 ## 💡 Karar
 İndirimli varyant, istatistiksel olarak anlamlı bir başarı sergilemiştir (%46 relatif artış). Stratejinin tüm kullanıcılara açılması önerilir.
